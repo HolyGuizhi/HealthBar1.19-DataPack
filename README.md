@@ -28,7 +28,7 @@
 ## <b>補充</b>：
 - 如需使用此作品拍攝於任何影音平台，或用於自己製作並公開的地圖、資料包...中，<br>
 都是可以的，但還希望能夠附上<b>影片連結</b>：<br>
-None<br>
+https://youtu.be/9lKBg71zpjc<br>
 或我的<b>Youtube頻道連結</b>：<br>
 https://www.youtube.com/channel/UCzLPmHoMTi-3oyakCDhGBAA<br><br>
 
