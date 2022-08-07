@@ -26,11 +26,12 @@
 
 
 ## <b>補充</b>：
-- 如需使用此作品拍攝於任何影音平台，或用於自己製作並公開的地圖、資料包...中，<br>
-都是可以的，但還希望能夠附上<b>影片連結</b>：<br>
+- 如需使用此作品拍攝於任何影音平台，或用於自己製作並公開的地圖、資料包...中，都是可以的，<br>
+但請附上<b>此影片連結</b>：<br>
 https://youtu.be/bR390Ww1Zp0<br>
 或我的<b>Youtube頻道連結</b>：<br>
-https://www.youtube.com/channel/UCzLPmHoMTi-3oyakCDhGBAA<br><br>
+https://www.youtube.com/channel/UCzLPmHoMTi-3oyakCDhGBAA<br>
+或<b>此Github頁面</b>。<br><br>
 
 - <b>敬告</b>，雖然資料包經過作者非常多次的測試，但出現嚴重BUG的機會並非完全為0，<br>
   如造成您的地圖或其他檔案毀損，在此不做負責，因此仍建議您可以先做檔案備份，避免遺憾發生。<br><br>
@@ -57,6 +58,7 @@ https://www.youtube.com/channel/UCzLPmHoMTi-3oyakCDhGBAA<br><br>
 - 新增了遠距離模式，可以看到80格遠的生物血量<br>
 - 玩家登入時不再跳出提示 (但/reload時仍會) ，方便創作者合併此資料包至其他作品中<br>
 - 更新了一些可透視的方塊<br>
+- 蹲下與站著的視線使用不同的起始位置偵測。<br>
 
 
 <br><br>
